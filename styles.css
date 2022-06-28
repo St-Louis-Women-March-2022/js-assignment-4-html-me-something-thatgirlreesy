@@ -1,1 +1,75 @@
 /* Write your CSS here! */
+#mainHeading {
+    color:rgb(255, 255, 255);
+}
+
+h1 {
+    border-top: 5px solid red;
+    border-bottom: 5px solid red;
+    padding-top: 2%;
+    padding-left: 2%;
+    background-color: black;
+    height: 60px;
+    width:viewport-length;
+    margin-top: -10;
+    margin-left: -1%;
+    margin-right: -1%;
+    font-family: 'Bernard MT Condensed';
+    font-size: 40px;
+}
+
+h2 {
+    margin-top: -100;
+    padding-left: 30px;
+    font-size: 24px;
+    color: red;
+}
+
+/* h3 {
+    font-family: 'Segoe Script';
+    font-size: 66px;
+    color:deeppink;
+    text-align: right;
+    padding-right: 25px;
+} */
+
+h4 {
+    clear:both;
+    font-size: 22px;
+    color:goldenrod;
+}
+
+body {
+    background-color: black;
+    margin:8px;
+    padding:16px;
+    display: block;
+    color:honeydew;
+}
+
+ol {
+    margin: 80px;
+    clear:right;
+    font-family: 'Britanic Bold';
+    font-size: 26px;
+    color:goldenrod;
+}
+
+.funParagraph {
+    color:green;
+}
+
+p {
+    font-size: 18px;
+}
+
+img {
+    width:280px;
+    padding:20px;
+    align-items: inline;
+    float:left;
+}
+
+footer {
+    clear:both;
+}
